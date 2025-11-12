@@ -1,0 +1,1 @@
+sudo dnf install -y tesseract tesseract-langpack-spa poppler-utils
